@@ -1,4 +1,4 @@
-# [ViewIcon](gauger.io/viewicon)
+# [ViewIcon](http://gauger.io/viewicon)
 
 View images as favicons live in your browser.
 
